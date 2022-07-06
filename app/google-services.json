@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "469805038370",
+    "project_id": "test-3a3bb",
+    "storage_bucket": "test-3a3bb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:469805038370:android:7d4a0592597e28265e037b",
+        "android_client_info": {
+          "package_name": "com.mananjain.taskmultiplexer"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "469805038370-j8ibfnhlkbuclabm22gci1fqmgkoqhmo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDNr1ysX8Ulo971oofdJVT36o1Xy-85EW4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "469805038370-j8ibfnhlkbuclabm22gci1fqmgkoqhmo.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
